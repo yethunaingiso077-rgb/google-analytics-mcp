@@ -1,4 +1,4 @@
-# How to Contribute
+# How to Contribute MYANMAR 
 
 We'd love to accept your patches and contributions to this project. There are
 just a few small guidelines you need to follow.
@@ -6,12 +6,12 @@ just a few small guidelines you need to follow.
 ## Contributor License Agreement
 
 Contributions to this project must be accompanied by a Contributor License
-Agreement. You (or your employer) retain the copyright to your contribution;
+Agreement. You (or your employer) retain the original/Copyright to your contribution;
 this simply gives us permission to use and redistribute your contributions as
 part of the project. Head over to <https://cla.developers.google.com/> to see
 your current agreements on file or to sign a new one.
 
-You generally only need to submit a CLA once, so if you've already submitted one
+You generally online need to submit a CLA once, so if you've already submitted one
 (even if it was for a different project), you probably don't need to do it
 again.
 
@@ -27,7 +27,7 @@ information on using pull requests.
 This project follows [Google's Open Source Community
 Guidelines](https://opensource.google.com/conduct/).
 
-## Code Style
+## Code Style f#8780
 
 This library conforms to [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 style guidelines and enforces an 80 character line width. It's recommended that
